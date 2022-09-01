@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "87273485920",
+    "project_id": "fir-integration-template",
+    "storage_bucket": "fir-integration-template.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87273485920:android:0b1282add06a58950c3505",
+        "android_client_info": {
+          "package_name": "com.FasterHorse.Firebase_Integration_Template"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87273485920-avduvge16d2271a6sd6q8u5aoqr8j8th.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqAV711Yux7CDm_47k7Ml23p3qMEdkSXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87273485920-avduvge16d2271a6sd6q8u5aoqr8j8th.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "87273485920-60sqm27ivm7ido6h2kh0bkejgthtj8re.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.FasterHorse.FirebaseIntegrationTemplate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
